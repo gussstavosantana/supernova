@@ -1,0 +1,29 @@
+{
+  "name": "style-dictionary-starter",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A Style Dictionary - Design Tokens Starter",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf build",
+    "build": "npm run clean && node build.js"
+  },
+  "keywords": [
+    "design",
+    "tokens",
+    "style",
+    "dictionary",
+    "css",
+    "design",
+    "systems"
+  ],
+  "author": "Stuart Robson",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^3.8.0"
+  },
+  "dependencies": {
+    "chroma-js": "^3.1.2",
+    "glob": "^11.0.0"
+  }
+}
