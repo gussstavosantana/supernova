@@ -1,0 +1,195 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "color": {
+    "color": {
+      "neutral-color-01": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "global": {
+        "neutral-1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "neutral-2": {
+          "value": "#f4f4f4",
+          "type": "color"
+        },
+        "neutral-3": {
+          "value": "#e4e4e4",
+          "type": "color"
+        },
+        "neutral-4": {
+          "value": "#b8b8b8",
+          "type": "color"
+        },
+        "neutral-5": {
+          "value": "#6f6f6f",
+          "type": "color"
+        },
+        "neutral-6": {
+          "value": "#5e5e5e",
+          "type": "color"
+        },
+        "neutral-7": {
+          "value": "#474747",
+          "type": "color"
+        },
+        "neutral-8": {
+          "value": "#303030",
+          "type": "color"
+        },
+        "neutral-9": {
+          "value": "#181818",
+          "type": "color"
+        },
+        "neutral-10": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "feedback": {
+        "feedback-1": {
+          "value": "#228934",
+          "type": "color"
+        },
+        "feedback-2": {
+          "value": "#11441a",
+          "type": "color"
+        },
+        "feedback-3": {
+          "value": "#bddcc2",
+          "type": "color"
+        },
+        "feedback-4": {
+          "value": "#de301f",
+          "type": "color"
+        },
+        "feedback-5": {
+          "value": "#6f180f",
+          "type": "color"
+        },
+        "feedback-6": {
+          "value": "#f6c1bc",
+          "type": "color"
+        },
+        "feedback-7": {
+          "value": "#850541",
+          "type": "color"
+        },
+        "feedback-8": {
+          "value": "#40032c",
+          "type": "color"
+        },
+        "feedback-9": {
+          "value": "#60042a",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "btp": {
+          "01": {
+            "value": "#ff5000",
+            "type": "color"
+          },
+          "02": {
+            "value": "#993000",
+            "type": "color"
+          },
+          "brand-color-03": {
+            "value": "#cc4000",
+            "type": "color"
+          }
+        },
+        "cns": {
+          "01": {
+            "value": "#73a329",
+            "type": "color"
+          },
+          "02": {
+            "value": "#265200",
+            "type": "color"
+          },
+          "brand-color-03": {
+            "value": "#368a44",
+            "type": "color"
+          }
+        },
+        "cc": {
+          "01": {
+            "value": "#8600a7",
+            "type": "color"
+          },
+          "02": {
+            "value": "#3e0052",
+            "type": "color"
+          },
+          "03": {
+            "value": "#5a0080",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "global": {
+      "bg": {
+        "bg-neutral-1": {
+          "value": "{color.color.global.neutral-1}",
+          "type": "color"
+        },
+        "bg-neutral-2": {
+          "value": "{color.color.global.neutral-2}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "border-neutral-1": {
+          "value": "{color.color.global.neutral-3}",
+          "type": "color"
+        }
+      },
+      "title": {
+        "title-text-color": {
+          "value": "{color.color.global.neutral-9}",
+          "type": "color"
+        }
+      }
+    },
+    "brand": {
+      "bg": {
+        "bg-brand-1": {
+          "value": "{color.color.brand.btp.01}",
+          "type": "color"
+        },
+        "bg-brand-2": {
+          "value": "{color.color.brand.btp.02}",
+          "type": "color"
+        }
+      },
+      "border": {
+        "border-1": {
+          "value": "{color.color.brand.btp.01}",
+          "type": "color"
+        }
+      },
+      "title": {
+        "title-text-brand": {
+          "value": "{color.color.brand.btp.01}",
+          "type": "color"
+        }
+      }
+    },
+    "button": {
+      "button-bg-primary": {
+        "value": "{color.color.brand.btp.01}",
+        "type": "color"
+      }
+    },
+    "card": {
+      "car-bg-primary": {
+        "value": "{color.color.brand.btp.01}",
+        "type": "color"
+      }
+    }
+  }
+}

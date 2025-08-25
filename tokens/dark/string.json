@@ -1,0 +1,33 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "typography": {
+      "fontsize": {
+        "ol-font-size-1": {
+          "value": "12",
+          "type": "string"
+        },
+        "ol-font-size-2": {
+          "value": "14",
+          "type": "string"
+        },
+        "ol-font-size-3": {
+          "value": "16",
+          "type": "string"
+        }
+      }
+    },
+    "button": {
+      "button-text-primary": {
+        "value": "{string.typography.fontsize.ol-font-size-2}",
+        "type": "string"
+      }
+    },
+    "card": {
+      "card-text-primary": {
+        "value": "{string.typography.fontsize.ol-font-size-2}",
+        "type": "string"
+      }
+    }
+  }
+}

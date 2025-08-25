@@ -1,0 +1,77 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "dimension": {
+    "border": {
+      "width": {
+        "ol-border-width-0": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "ol-border-width-1": {
+          "value": "1px",
+          "type": "dimension"
+        },
+        "ol-border-width-3": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "ol-border-width-4": {
+          "value": "3px",
+          "type": "dimension"
+        },
+        "ol-border-width-5": {
+          "value": "4px",
+          "type": "dimension"
+        }
+      },
+      "radius": {
+        "ol-border-radius-0": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "ol-border-radius-1": {
+          "value": "2px",
+          "type": "dimension"
+        },
+        "ol-border-radius-2": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "ol-border-radius-3": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "ol-border-radius-4": {
+          "value": "24px",
+          "type": "dimension"
+        }
+      }
+    },
+    "global": {
+      "title": {
+        "font-size-001": {
+          "value": "0px",
+          "type": "dimension"
+        }
+      },
+      "border": {
+        "border-radius-0": {
+          "value": "{dimension.border.radius.ol-border-radius-0}",
+          "type": "dimension"
+        }
+      }
+    },
+    "button": {
+      "button-border": {
+        "value": "{dimension.border.width.ol-border-width-5}",
+        "type": "dimension"
+      }
+    },
+    "card": {
+      "card-border": {
+        "value": "{dimension.border.width.ol-border-width-5}",
+        "type": "dimension"
+      }
+    }
+  }
+}
